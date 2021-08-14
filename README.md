@@ -1,7 +1,7 @@
 
-POC Script 
+POC Script [ AKS -> ACR - > SP -> Secrets > Nginx ] 
 
-ISSUE: Failed to resolve refrenece issue while pulling with ACR user name and pasword. Must supply, Servie priciple id and password to pull it in right way. 
+ISSUE: Failed to resolve refrenece issue while pulling with ACR user name and pasword. Must supply, Service priciple id and password to pull it in right way. 
 ============================================================================================================================================================
 
 # Pull-ACR_image_in_AKS--403-Forbidden
